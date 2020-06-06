@@ -1,4 +1,4 @@
-# 52-projects-with-golong
+# 52-practices-with-golong
 I wanna learn this beautiful language so start this project to document every little progress :) 
 
 #### run a single file
